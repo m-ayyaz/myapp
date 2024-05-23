@@ -17,6 +17,9 @@ function App() {
         >
           Learn React
         </a>
+        <h1>
+          Nginx pipelined through github actions
+        </h1>
       </header>
     </div>
   );
